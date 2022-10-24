@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NammuLovett&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NammuLovett&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote - ランダムな開発者の引用
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 ---
