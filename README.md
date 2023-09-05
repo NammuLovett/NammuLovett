@@ -1,5 +1,5 @@
 # 💫 About Me - 私について :
-📋  I'm product Designer<br>🖥 I'm currently studying DEV  <br>🎸 Guitar Lover<br>🐶 Father of Cora<br>🌱 I’m currently learning<br>💬 Ask me about<br>🕶 Fun fact<br>🚀 Let's go
+📋  I'm product Designer<br>🖥 I'm DEV  <br>🎸 Guitar Lover<br>🐶 Father of Cora<br>🌱 I’m currently learning<br>💬 Ask me about<br>🕶 Fun fact<br>🚀 Let's go
 
 
 ## 🌐 Socials - ソーシャルメディア:
